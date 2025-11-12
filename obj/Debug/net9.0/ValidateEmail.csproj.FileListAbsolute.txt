@@ -1,0 +1,14 @@
+C:\dev\Projetos\ValidateEmail\bin\Debug\net9.0\ValidateEmail.exe
+C:\dev\Projetos\ValidateEmail\bin\Debug\net9.0\ValidateEmail.deps.json
+C:\dev\Projetos\ValidateEmail\bin\Debug\net9.0\ValidateEmail.runtimeconfig.json
+C:\dev\Projetos\ValidateEmail\bin\Debug\net9.0\ValidateEmail.dll
+C:\dev\Projetos\ValidateEmail\bin\Debug\net9.0\ValidateEmail.pdb
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.AssemblyInfoInputs.cache
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.AssemblyInfo.cs
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.csproj.CoreCompileInputs.cache
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.dll
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\refint\ValidateEmail.dll
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.pdb
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ValidateEmail.genruntimeconfig.cache
+C:\dev\Projetos\ValidateEmail\obj\Debug\net9.0\ref\ValidateEmail.dll
